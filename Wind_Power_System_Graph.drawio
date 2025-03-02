@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="_P8bbVVmjnCcZu3o8UbJ">
-    <mxGraphModel>
+    <mxGraphModel dx="2038" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RuKljuL04ygn69wONxHi-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RuKljuL04ygn69wONxHi-1" target="RuKljuL04ygn69wONxHi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-1" value="Wind Power&lt;div&gt;System&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RuKljuL04ygn69wONxHi-2" target="RuKljuL04ygn69wONxHi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RuKljuL04ygn69wONxHi-2" target="RuKljuL04ygn69wONxHi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-2" value="Control Algorithm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RuKljuL04ygn69wONxHi-4" target="RuKljuL04ygn69wONxHi-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="RuKljuL04ygn69wONxHi-6" target="RuKljuL04ygn69wONxHi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-6" value="Control Systrm" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-8" value="Electricity set" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RuKljuL04ygn69wONxHi-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
