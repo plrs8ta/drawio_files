@@ -18,7 +18,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-95" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-34" target="sur9hMXCmxYyR-VJTrtK-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="841" />
+              <mxPoint x="-180" y="961" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-34" value="多机型主控系统国产化研发" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-131" y="800" width="210" height="82" as="geometry" />
@@ -33,16 +38,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-35" value="机型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-344" y="628" width="120" height="60" as="geometry" />
+          <mxGeometry x="-344" y="627" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-37" value="小双馈&lt;div&gt;(1.5MW/2MW)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-537" y="485" width="120" height="60" as="geometry" />
+          <mxGeometry x="-537" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-39" value="3MW以上半直驱" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-537" y="628" width="120" height="60" as="geometry" />
+          <mxGeometry x="-537" y="643" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-41" value="5.5MW以上大双馈" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-537" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-537" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-77" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-47" target="sur9hMXCmxYyR-VJTrtK-63">
           <mxGeometry relative="1" as="geometry" />
@@ -54,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-47" value="硬件平台&lt;div&gt;(≥4个平台)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-352" y="973" width="120" height="60" as="geometry" />
+          <mxGeometry x="-359" y="931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-63" value="国能智深" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-537" y="913" width="120" height="60" as="geometry" />
+          <mxGeometry x="-537" y="878" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-103" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-46" target="sur9hMXCmxYyR-VJTrtK-96">
           <mxGeometry relative="1" as="geometry" />
@@ -75,22 +80,22 @@
           <mxGeometry x="130" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-91" value="国电南自" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-537" y="1055" width="120" height="60" as="geometry" />
+          <mxGeometry x="-537" y="996" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-96" value="发电量提升功能&lt;div&gt;(偏航优化、尾流优化...)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="297" y="477" width="213" height="68" as="geometry" />
+          <mxGeometry x="297" y="517" width="213" height="68" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-97" value="电气系统升级&lt;br&gt;&lt;div&gt;(应急偏航、高低穿改造..)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="297" y="669" width="209" height="66" as="geometry" />
+          <mxGeometry x="297" y="675" width="209" height="66" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-98" value="支撑功能&lt;div&gt;(震动抑制、转速穿越、测点添加、故障排查...)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="297" y="858" width="203" height="67" as="geometry" />
+          <mxGeometry x="297" y="832" width="203" height="67" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-99" value="调节功能&lt;div&gt;(调频有功改造、无功优化...)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="297" y="1051" width="202" height="64" as="geometry" />
+          <mxGeometry x="297" y="988" width="202" height="68" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-101" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-502" y="990" width="28" height="26" as="geometry" />
+          <mxGeometry x="-502" y="948" width="28" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
