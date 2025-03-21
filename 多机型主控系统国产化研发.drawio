@@ -1,32 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="第 1 页" id="Kfhz-lO2e_RVVOw436UW">
-    <mxGraphModel dx="2583" dy="596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2994" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sur9hMXCmxYyR-VJTrtK-67" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-34" target="sur9hMXCmxYyR-VJTrtK-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-182" y="842" />
+              <mxPoint x="-182" y="787" />
               <mxPoint x="-182" y="658" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-76" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" target="sur9hMXCmxYyR-VJTrtK-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="79" y="845" as="sourcePoint" />
+            <mxPoint x="72" y="791" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-95" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-34" target="sur9hMXCmxYyR-VJTrtK-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-180" y="841" />
-              <mxPoint x="-180" y="961" />
+              <mxPoint x="-182" y="787" />
+              <mxPoint x="-182" y="961" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-34" value="多机型主控系统国产化研发" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=30;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-131" y="800" width="210" height="82" as="geometry" />
+          <mxGeometry x="-138" y="746" width="210" height="82" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-70" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-35" target="sur9hMXCmxYyR-VJTrtK-39">
           <mxGeometry relative="1" as="geometry" />
@@ -55,8 +55,10 @@
         <mxCell id="sur9hMXCmxYyR-VJTrtK-100" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-47" target="sur9hMXCmxYyR-VJTrtK-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sur9hMXCmxYyR-VJTrtK-102" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-47" target="sur9hMXCmxYyR-VJTrtK-101">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sur9hMXCmxYyR-VJTrtK-102" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;flowAnimation=0;" edge="1" parent="1" source="sur9hMXCmxYyR-VJTrtK-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-418" y="961" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-47" value="硬件平台&lt;div&gt;(≥4个平台)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-359" y="931" width="120" height="60" as="geometry" />
@@ -77,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-46" value="主控功能优化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="815" width="120" height="60" as="geometry" />
+          <mxGeometry x="123" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-91" value="国电南自" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="-537" y="996" width="120" height="60" as="geometry" />
@@ -95,7 +97,7 @@
           <mxGeometry x="297" y="988" width="202" height="68" as="geometry" />
         </mxCell>
         <mxCell id="sur9hMXCmxYyR-VJTrtK-101" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-502" y="948" width="28" height="26" as="geometry" />
+          <mxGeometry x="-445" y="948" width="28" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
